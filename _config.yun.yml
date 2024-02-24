@@ -1,0 +1,130 @@
+avatar:
+  url: /images/avatar.jpg # 你的头像图片地址
+  rounded: true
+  opacity: 1
+  mickey_mouse: true
+  status:
+    enable: true
+    emoji: 😎
+    message: 非常好Bocchi
+
+colors:
+  primary: "#ff96e0"
+  bg: "#EDA9B0"
+  selection_bg: "#FBD286"
+
+social:
+  # - name: RSS
+  #   # set rss in your root config
+  #   # https://github.com/hexojs/hexo-generator-feed
+  #   link: /atom.xml # config.feed.path
+  #   icon: ri:rss-line
+  #   color: orange
+  - name: GitHub
+    link: https://github.com/sevmeowple
+    icon: ri:github-line
+    color: "#181717"
+  - name: E-Mail
+    link: mailto:1259598502@qq.com
+    icon: ri:mail-line
+    color: "#8E71C1"
+  # - name: 微博
+  #   link: https://weibo.com/jizhideyunyoujun
+  #   icon: ri:weibo-line
+  #   color: "#E6162D"
+  # - name: 豆瓣
+  #   link: https://www.douban.com/people/yunyoujun/
+  #   icon: ri:douban-line
+  #   color: "#007722"
+  # - name: 网易云音乐
+  #   link: https://music.163.com/#/user/home?id=247102977
+  #   icon: ri:netease-cloud-music-line
+  #   color: "#C10D0C"
+  # - name: 知乎
+  #   link: https://www.zhihu.com/people/yunyoujun/
+  #   icon: ri:zhihu-line
+  #   color: "#0084FF"
+  - name: 哔哩哔哩动画
+    link: https://space.bilibili.com/670284534
+    icon: ri:bilibili-line
+    color: "#FF8EB3"
+  # - name: 微信公众号
+  #   link: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/about/white-qrcode-and-search.jpg
+  #   icon: ri:wechat-2-line
+  #   color: "#1AAD19"
+  - name: Twitter
+    link: https://twitter.com/Qmm_ff96e0
+    icon: ri:twitter-line
+    color: "#1da1f2"
+  - name: Telegram
+    link: https://t.me/qmm746210
+    icon: ri:telegram-line
+    color: "#0088CC"
+  # - name: Telegram Channel
+  #   link: https://t.me/elpsycn
+  #   icon: ri:telegram-fill
+  #   color: "#0088CC"
+  # - name: Travelling
+  #   link: https://www.travellings.cn/go.html
+  #   icon: ri:send-plane-2-line
+  #   color: black
+
+bg_image:
+  enable: true
+  url: /images/background.png
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.8
+
+banner:
+  enable: true
+  title: 
+    -七
+    -庙
+    -庙
+    -の
+    -Page
+  border: true
+  cloud:
+    enable: true
+    color: '#ff96e0'
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+notice:
+  enable: true
+  content: Hello World!.
+
+fireworks:
+  enable: true
+  colors:
+    - '238, 162, 164'
+    - '242, 182, 204'
+    - '242, 206, 219'
+
+medium_zoom: true
+
+menu:
+  home:
+    path: /
+    icon: ri:home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: ri:archive-line
+    - type: categories
+      path: /categories/
+      icon: ri:folder-2-line
+    - type: tags
+      path: /tags/
+      icon: ri:price-tag-3-line
+    # - path: https://www.yunyoujun.cn
+    #   icon: ri:cloud-line
+    #   count: 你猜
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: ri:genderless-line
+    color: dodgerblue

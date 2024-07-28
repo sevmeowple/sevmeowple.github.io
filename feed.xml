@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>七庙庙のPage</title>
+        <link>https://sevmeowple.github.io/</link>
+        <description>随便看看吧</description>
+        <lastBuildDate>Sun, 28 Jul 2024 06:30:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>七庙庙のPage</title>
+            <url>https://avatars.githubusercontent.com/u/111647443?s=96&amp;v=4</url>
+            <link>https://sevmeowple.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 七庙庙</copyright>
+        <atom:link href="https://sevmeowple.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hello-world]]></title>
+            <link>https://sevmeowple.github.io/posts/hello-world</link>
+            <guid>https://sevmeowple.github.io/posts/hello-world</guid>
+            <pubDate>Sun, 28 Jul 2024 06:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<pre><code class="language-python">print('hello')
+</code></pre>
+<blockquote>
+<p>你好</p>
+</blockquote>
+<br/><p>访问 <a href="https://sevmeowple.github.io/posts/hello-world" target="_blank">https://sevmeowple.github.io/posts/hello-world</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (七庙庙)</author>
+        </item>
+        <item>
+            <title><![CDATA[七庙庙]]></title>
+            <link>https://sevmeowple.github.io/posts/七庙庙</link>
+            <guid>https://sevmeowple.github.io/posts/七庙庙</guid>
+            <pubDate>Sun, 28 Jul 2024 06:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Hello World</h1>
+<pre><code class="language-python">print(&quot;Hello World&quot;)
+</code></pre>
+<h2>About Me</h2>
+<h3>Skills</h3>
+<ul>
+<li>Programming languages:</li>
+</ul>
+<br/><p>访问 <a href="https://sevmeowple.github.io/posts/七庙庙" target="_blank">https://sevmeowple.github.io/posts/七庙庙</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (七庙庙)</author>
+        </item>
+        <item>
+            <title><![CDATA[橱柜]]></title>
+            <link>https://sevmeowple.github.io/posts/橱柜</link>
+            <guid>https://sevmeowple.github.io/posts/橱柜</guid>
+            <pubDate>Sun, 28 Jul 2024 06:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>这里是橱柜</h1>
+<blockquote>
+<p>这里是一个放比较完整的project的地方</p>
+</blockquote>
+<h2>一些网页link</h2>
+<blockquote>
+<p>总之是一些网页Link</p>
+</blockquote>
+<h3>Wordle</h3>
+<p>复刻的Wordle小游戏 [Here](https:/</p>
+<br/><p>访问 <a href="https://sevmeowple.github.io/posts/橱柜" target="_blank">https://sevmeowple.github.io/posts/橱柜</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (七庙庙)</author>
+        </item>
+    </channel>
+</rss>

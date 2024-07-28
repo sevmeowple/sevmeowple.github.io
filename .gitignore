@@ -27,3 +27,6 @@ public/atom.xml
 
 # valaxy rss
 public/feed.xml
+
+# valaxy fuse
+public/valaxy-fuse-list.json

@@ -12,6 +12,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@rive-app/canvas": "^2.19.6",
     "valaxy": "0.19.5",
     "valaxy-theme-yun": "0.19.5"
   },
